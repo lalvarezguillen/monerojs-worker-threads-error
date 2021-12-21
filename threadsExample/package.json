@@ -1,0 +1,16 @@
+{
+  "name": "test-monerojs-worker-threads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "monero-javascript": "^0.5.9",
+    "threads": "^1.7.0"
+  }
+}
